@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Post1
+  description: Post one description
+
+two:
+  name: Post2
+  description: Post two description
+
+three:
+  name: Post3
+  description: Post three description
+
+four:
+  name: Post4
+  description: Post four description
