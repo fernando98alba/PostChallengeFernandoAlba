@@ -4,7 +4,7 @@
 Este proyecto utiliza Ruby on Rails (RoR) como API para el backend y React para el frontend.
 
 ### Dependencias del Backend
-- Node.js (se utilizó la versión 14)
+- Node.js (se utilizó la versión 14.21)
 - Ruby 3.1
 - Rails 7.0
 - PostgresQL (versión >=9)
@@ -18,15 +18,16 @@ Este proyecto utiliza Ruby on Rails (RoR) como API para el backend y React para 
 6. Iniciar el backend con `rails s`
 
 ### Dependencias del Frontend
-- npm
-- React
+- Node.js (se utilizó la versión 14.21)
+- npm (se utilizó la versión 6.14)
+- React (se utilizó la versión 18.2)
 - Bootstrap
-- Redux
-- Redux Toolkit
+- Redux 5
+- Redux Toolkit 2
 
 ### Instrucciones para el Frontend
-1. Instalar npm
-2. Instalar React
+1. Instalar Node y npm
+2. Instalar React y Redux
 3. Ejecutar `npm install` para instalar las demás dependencias del proyecto
 4. Iniciar con `npm start`
 
